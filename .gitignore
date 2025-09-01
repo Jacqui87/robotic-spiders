@@ -1,0 +1,18 @@
+# Build Folders
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code / JetBrains / Rider
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
